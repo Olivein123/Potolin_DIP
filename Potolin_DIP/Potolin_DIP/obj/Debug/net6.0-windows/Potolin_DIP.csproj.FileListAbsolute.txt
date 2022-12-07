@@ -1,0 +1,17 @@
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\bin\Debug\net6.0-windows\Potolin_DIP.exe
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\bin\Debug\net6.0-windows\Potolin_DIP.deps.json
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\bin\Debug\net6.0-windows\Potolin_DIP.runtimeconfig.json
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\bin\Debug\net6.0-windows\Potolin_DIP.dll
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\bin\Debug\net6.0-windows\Potolin_DIP.pdb
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\obj\Debug\net6.0-windows\Potolin_DIP.csproj.AssemblyReference.cache
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\obj\Debug\net6.0-windows\Potolin_DIP.Form1.resources
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\obj\Debug\net6.0-windows\Potolin_DIP.csproj.GenerateResource.cache
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\obj\Debug\net6.0-windows\Potolin_DIP.GeneratedMSBuildEditorConfig.editorconfig
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\obj\Debug\net6.0-windows\Potolin_DIP.AssemblyInfoInputs.cache
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\obj\Debug\net6.0-windows\Potolin_DIP.AssemblyInfo.cs
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\obj\Debug\net6.0-windows\Potolin_DIP.csproj.CoreCompileInputs.cache
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\obj\Debug\net6.0-windows\Potolin_DIP.dll
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\obj\Debug\net6.0-windows\refint\Potolin_DIP.dll
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\obj\Debug\net6.0-windows\Potolin_DIP.pdb
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\obj\Debug\net6.0-windows\Potolin_DIP.genruntimeconfig.cache
+K:\OLIBINCODE\Potolin_DIP\Potolin_DIP\Potolin_DIP\obj\Debug\net6.0-windows\ref\Potolin_DIP.dll
