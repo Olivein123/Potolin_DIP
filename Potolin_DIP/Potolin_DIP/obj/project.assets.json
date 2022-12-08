@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ssamu\\.nuget\\packages\\": {}
+    "C:\\Users\\M S I   GAMING\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\OLIBINCODE\\Potolin_DIP\\Potolin_DIP\\Potolin_DIP\\Potolin_DIP.csproj",
+      "projectUniqueName": "G:\\School\\Aliac\\DIP\\Potolin_DIP\\Potolin_DIP\\Potolin_DIP\\Potolin_DIP.csproj",
       "projectName": "Potolin_DIP",
-      "projectPath": "K:\\OLIBINCODE\\Potolin_DIP\\Potolin_DIP\\Potolin_DIP\\Potolin_DIP.csproj",
-      "packagesPath": "C:\\Users\\Ssamu\\.nuget\\packages\\",
-      "outputPath": "K:\\OLIBINCODE\\Potolin_DIP\\Potolin_DIP\\Potolin_DIP\\obj\\",
+      "projectPath": "G:\\School\\Aliac\\DIP\\Potolin_DIP\\Potolin_DIP\\Potolin_DIP\\Potolin_DIP.csproj",
+      "packagesPath": "C:\\Users\\M S I   GAMING\\.nuget\\packages\\",
+      "outputPath": "G:\\School\\Aliac\\DIP\\Potolin_DIP\\Potolin_DIP\\Potolin_DIP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ssamu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\M S I   GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,3 +1,5 @@
+using System.Drawing.Imaging;
+
 namespace Potolin_DIP
 {
     public partial class Form1 : Form
@@ -168,9 +170,21 @@ namespace Potolin_DIP
             pictureBox2.Image = processed;
         }
 
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void saveToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            saveFileDialog1.ShowDialog();
+            SaveFileDialog sf = new SaveFileDialog();
+            sf.Filter = "JPG(*.JPG)| *.JPG";
+
+            if(sf.ShowDialog() == DialogResult.OK)
+            {
+                processed.Save(sf.FileName);
+            }
+            
         }
 
         //PART 1 DIP ENDS HERE
