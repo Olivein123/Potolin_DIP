@@ -2,6 +2,8 @@ namespace Potolin_DIP
 {
     public partial class Form1 : Form
     {
+        //PART 1 DIP STARTS HERE
+
         Bitmap loaded, processed;
         public Form1()
         {
@@ -61,7 +63,7 @@ namespace Potolin_DIP
             Color sample;
             Color gray;
             Byte graydata;
-            var a = new Bitmap(pictureBox1.Image);
+            var a = new Bitmap(loaded.Width, loaded.Height);
             //Grayscale Convertion;
             for (int x = 0; x < a.Width; x++)
             {
@@ -103,6 +105,8 @@ namespace Potolin_DIP
                     b.SetPixel(x, (b.Height - 1) - y, Color.Black);
                 }
             }
+
+            pictureBox2.Image = b;
         }
 
         private void sepiaToolStripMenuItem_Click(object sender, EventArgs e)
@@ -168,5 +172,12 @@ namespace Potolin_DIP
         {
             saveFileDialog1.ShowDialog();
         }
+
+        //PART 1 DIP ENDS HERE
+
+        //PART 2 DIP STARTS HERE
+
+
+        //PART 2 DIP ENDS HERE
     }
 }
